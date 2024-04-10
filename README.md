@@ -52,7 +52,7 @@ My passion and love for DevOps stems from its transformative impact on software 
 
 ###
 
-<p align="left">- 🔭 I’m working as a Senior Microwave Engineer<br>- 📚 I'm currently learning DevOps/Software Engineering<br>- ⚡ In my free time I study, see a  movie to relax...<br></p>
+<p align="left">- 🔭 I’m working as a Senior Microwave Engineer<br>- 📚 I'm currently learning DevOps/Software Engineering<br>- ⚡ In my free time I study, see a  movie to relax...</p>
 -📫 How to reach me **idowu.olayiwola.bamidele@gmail.com**
 <br>
 
