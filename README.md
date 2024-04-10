@@ -93,9 +93,3 @@
 </div>
 
 ###
-
-###
-
-<img src="https://raw.githubusercontent.com/Bamidele0102/Bamidele0102/main/snake.yml" alt="Snake animation" />
-
-###
