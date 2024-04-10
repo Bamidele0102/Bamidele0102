@@ -23,9 +23,7 @@
 <p align="center">A DevOps enthusiast, passionate with the desire to streamline software development and deployment processes while ensuring reliability, scalability, and efficiency. I'm drawn to DevOps because of its focus on collaboration between development and operations teams🌐, as well as its emphasis on automation, continuous integration and deployment (CI/CD), and infrastructure as code (IaC).
 My passion and love for DevOps stems from its transformative impact on software development💻, its focus on efficiency and collaboration, and the opportunities it provides for innovation and growth. 🛠️</p>
 <p align="center"> 
- <img src="https://komarev.com/ghpvc/?username=Bamidele0102&label=Profile%20views&color=0e75b6&style=flat" alt="supun nanayakkara" /> 
-<!--  <img src="https://img.shields.io/badge/Languages-Python | Java | PHP | Typescript | Node | React -green.svg" alt="supun nanayakkara's languages" /> -->
-<!--  <img alt="Profile followers" src="https://img.shields.io/github/followers/Bamidele0102"> -->
+ <img src="https://komarev.com/ghpvc/?username=Bamidele0102&label=Profile%20views&color=0e75b6&style=flat" alt="Idowu Olayiwola Bamidele" /> 
 </p>
 
 <div align="center">
@@ -153,4 +151,4 @@ My passion and love for DevOps stems from its transformative impact on software 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet!</b> :)</em>
 
 <br>
-<p align="right" > Created with 🧡
+<p align="right" > Created with 🧡 
