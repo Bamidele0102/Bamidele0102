@@ -2,6 +2,10 @@
   <img height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDRoYXJxZGsyZGZ5NDBvOW10OWd5ZGJmcWx4NHZueng4ZzVvMG53YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
 
+<div id="header" align="center">
+  <img src="https://komarev.com/ghpvc/?username=Bamidele0102&style=flat-square&color=blue" alt=""/>
+</div>
+
 ###
 
 <div align="center">
@@ -21,7 +25,13 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">Hey there 👋</h1>
+
+###
+
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
 
 ###
 
@@ -72,7 +82,11 @@
 ###
 
 <div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=bamidele0102&theme=dark" alt="Layout with last medium posts"  />
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Bamidele0102&theme=dark" alt="GitHub Streak" /></a>
 </div>
+
+###
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bamidele0102&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ###
