@@ -13,9 +13,9 @@
   <a href="https://discord.com/channels/@bamidele0102" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
   </a>
-  <a href="mailto:idowu.olayiwola.bamidele@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  </a>
+    <a href="mailto:idowu.olayiwola.bamidele@gmail.com" target="_blank">
+        <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
+    </a>
 </div>
 
 <h1 align="center">Hey there👋</h1>
@@ -52,7 +52,7 @@ My passion and love for DevOps stems from its transformative impact on software 
 
 ###
 
-<p align="left">- 🔭 I’m working as a Senior Microwave Engineer<br>- 📚 I'm currently learning DevOps/Software Engineering<br>- ⚡ In my free time I study, see a  movie to relax...<br> - 📫 You can reach me via <a href="idowu.olayiwola.bamidele@gmail.com">Email</a></p>
+<p align="left">- 🔭 I’m working as a Senior Microwave Engineer<br>- 📚 I'm currently learning DevOps/Software Engineering<br>- ⚡ In my free time I study, see a  movie to relax...<br> - 📫 You can reach me via <a href="mailto:idowu.olayiwola.bamidele@gmail.com">Email</a></p>
 <br>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
