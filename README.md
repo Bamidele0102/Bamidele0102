@@ -93,7 +93,7 @@ My passion and love for DevOps stems from its transformative impact on software 
 - Backend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,python,bash,nginx" />
+    <img src="https://skillicons.dev/icons?i=c,python,bash,nginx,flask" />
   </a>
 </p>
 
