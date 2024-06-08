@@ -66,13 +66,20 @@ My passion and love for DevOps stems from its transformative impact on software 
 - DevOps and other Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,docker"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="50" alt="kubernetes logo"  />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="50" alt="terraform logo"  />
-    <img src="https://skillicons.dev/icons?i=git,github,vim,vscode" />
+    <img src="https://skillicons.dev/icons?i=linux" alt="linux" />
+    <img src="https://skillicons.dev/icons?i=docker" alt="docker" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="50" alt="kubernetes logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="50" alt="terraform logo" />
+    <br />
+    <img src="https://skillicons.dev/icons?i=git" alt="git" />
+    <img src="https://skillicons.dev/icons?i=github" alt="github" />
+    <img src="https://skillicons.dev/icons?i=vim" alt="vim" />
+    <img src="https://skillicons.dev/icons?i=vscode" alt="vscode" />
+    <br />
+    <img src="https://skillicons.dev/icons?i=vercel" alt="vercel" />
   </a>
 </p>
+
 
 - Cloud Servers
 <p align="left">
@@ -93,7 +100,7 @@ My passion and love for DevOps stems from its transformative impact on software 
 - Backend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,python,bash,nginx,flask" />
+    <img src="https://skillicons.dev/icons?i=c,python,bash,nginx,flask,nodejs&perline=4" />
   </a>
 </p>
 
