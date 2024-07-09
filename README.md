@@ -90,13 +90,15 @@ My passion and love for DevOps stems from its transformative impact on software 
   <a href="https://skillicons.dev">
     <img width="12" />
   <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo"  />
+  <img src="https://skillicons.dev/icons?i=redis" height="60" alt="redis logo"  />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="60" alt="mysql logo"  />
   </a>
 </p>
 
 - Backend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,python,bash,nginx,flask,nodejs&perline=4" />
+    <img src="https://skillicons.dev/icons?i=c,python,bash,nginx,flask,nodejs,express,ts&perline=4" />
   </a>
 </p>
 
