@@ -98,14 +98,14 @@ My passion and love for DevOps stems from its transformative impact on software 
 - Backend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,python,bash,nginx,flask,nodejs,express,ts&perline=4" />
+    <img src="https://skillicons.dev/icons?i=c,python,bash,nginx,flask,nodejs,express&perline=4" />
   </a>
 </p>
 
 - Frontend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react&perline=4" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,ts&perline=4" />
   </a>
 </p>
 
