@@ -20,8 +20,9 @@
 
 <h1 align="center">Hey there👋</h1>
 <h3 align="center">A passionate DevOps Engineer</h3>
-<p align="center">A DevOps enthusiast, passionate with the desire to streamline software development and deployment processes while ensuring reliability, scalability, and efficiency. I'm drawn to DevOps because of its focus on collaboration between development and operations teams🌐, as well as its emphasis on automation, continuous integration and deployment (CI/CD), and infrastructure as code (IaC).
-My passion and love for DevOps stems from its transformative impact on software development💻, its focus on efficiency and collaboration, and the opportunities it provides for innovation and growth. 🛠️</p>
+<p align="center">A DevOps enthusiast, passionate with the desire to streamline software development and deployment processes while ensuring reliability, scalability, and efficiency. I'm drawn to DevOps because of its focus on collaboration between development and operations teams🌐, as well as its emphasis on automation, continuous integration and deployment (CI/CD)📦, and infrastructure as code (IaC)📝. My passion and love for DevOps stems from its transformative impact on software development💻, its focus on efficiency and collaboration, and the opportunities it provides for innovation and growth. 🚀</p>
+<p align="center">I am also a backend developer, bringing a comprehensive understanding of server-side technologies and databases to my work in DevOps. This dual expertise allows me to create robust, scalable, and efficient backend systems while seamlessly integrating them into the DevOps pipeline. ⚙️🔧🗄️</p>
+
 <p align="center"> 
  <img src="https://komarev.com/ghpvc/?username=Bamidele0102&label=Profile%20views&color=0e75b6&style=flat" alt="Idowu Olayiwola Bamidele" /> 
 </p>
